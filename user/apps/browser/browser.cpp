@@ -7,6 +7,7 @@
 #include "hzapps.h"
 #include "hzfile.h"
 #include "hzui.h"
+#include <string.h>
 
 using namespace hzui;
 
